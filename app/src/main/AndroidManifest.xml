@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application android:label="Loyalsoldier GeoIP">
+        <meta-data
+            android:name="com.github.kr328.clash.GEOIP_FILE_NAME"
+            android:value="Country.mmdb" />
+    </application>
+
+</manifest>
